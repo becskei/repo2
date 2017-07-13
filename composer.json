@@ -1,0 +1,19 @@
+{
+  "name": "becskei/repo2",
+  "license": "proprietary",
+  "type": "project",
+  "description": "https://github.com/becskei/repo2",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:becskei/repo3.git"
+    }
+  ],
+  "require": {
+    "becskei/repo3": "1.0.0"
+  },
+  "config": {
+    "home": "/tmp/composer",
+    "cache-dir": "/tmp/composer"
+  }
+}
