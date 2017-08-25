@@ -10,10 +10,6 @@
     }
   ],
   "require": {
-    "becskei/repo3": "1.0.0"
-  },
-  "config": {
-    "home": "/tmp/composer",
-    "cache-dir": "/tmp/composer"
+    "becskei/repo3": "3.0.1"
   }
 }
