@@ -4,7 +4,7 @@
   "type": "project",
   "description": "https://github.com/becskei/repo2",
   "autoload": {
-    "psr-0" : { "Becskei" : "src/"}
+    "psr-0": { "": ["src/", "features/"], "spec": [""]  }
   },
   "repositories": {
       "type": "git",
