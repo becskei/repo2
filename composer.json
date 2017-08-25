@@ -3,13 +3,18 @@
   "license": "proprietary",
   "type": "project",
   "description": "https://github.com/becskei/repo2",
-  "repositories": [
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "repositories":
     {
       "type": "git",
       "url": "git@github.com:becskei/repo3.git"
     }
   ],
   "require": {
-    "becskei/repo3": "3.0.1"
+    "becskei/repo3": "3.0.4"
   }
 }
