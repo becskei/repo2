@@ -4,15 +4,13 @@
   "type": "project",
   "description": "https://github.com/becskei/repo2",
   "autoload": {
-    "psr-4": {
-      "": "src/"
-    }
+    "psr-0" : { "Becskei" : "src/"}
   },
   "repositories": {
       "type": "git",
       "url": "git@github.com:becskei/repo3.git"
   },
   "require": {
-    "becskei/repo3": "3.0.4"
+    "becskei/repo3": "3.0.5"
   }
 }
