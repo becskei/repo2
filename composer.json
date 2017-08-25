@@ -8,12 +8,10 @@
       "": "src/"
     }
   },
-  "repositories":
-    {
+  "repositories": {
       "type": "git",
       "url": "git@github.com:becskei/repo3.git"
-    }
-  ],
+  },
   "require": {
     "becskei/repo3": "3.0.4"
   }
