@@ -9,5 +9,8 @@
   "repositories": {
       "type": "git",
       "url": "git@github.com:becskei/repo3.git"
+  },
+  "require": {
+    "becskei/repo3": "5.1"
   }
 }
