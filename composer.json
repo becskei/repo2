@@ -4,12 +4,26 @@
   "type": "project",
   "description": "https://github.com/becskei/repo2",
   "autoload": {
-    "psr-0": { "": ["src/", "features/"], "spec": [""]  }
+    "psr-0": {
+      "": [
+        "src/",
+        "features/"
+      ],
+      "spec": [
+        ""
+      ]
+    }
   },
-  "repositories": {
+  "repositories": [
+    {
       "type": "git",
       "url": "git@github.com:becskei/repo3.git"
-  },
+    },
+    {
+      "type": "git",
+      "url": "git@github.com:becskei/repo4.git"
+    }
+  ],
   "require": {
     "becskei/repo3": "dev-master",
     "becskei/repo4": "2.1"
