@@ -26,6 +26,6 @@
   ],
   "require": {
     "becskei/repo3": "dev-master",
-    "becskei/repo4": "2.1"
+    "becskei/repo4": "2.3"
   }
 }
