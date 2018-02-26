@@ -11,7 +11,7 @@
       "url": "git@github.com:becskei/repo3.git"
   },
   "require": {
-    "becskei/repo3": "^7.1",
+    "becskei/repo3": "dev-master",
     "becskei/repo4": "2.1"
   }
 }
